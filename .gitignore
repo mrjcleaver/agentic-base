@@ -1,3 +1,7 @@
+# Claude & Claude-Flow
+.claude
+.claude-flow
+
 # Logs
 logs
 *.log
